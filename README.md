@@ -2,7 +2,7 @@
 
 My name is Hanssi Andrianiaina RASOLOMANANA
 
-I am a data scientist but also a 3D artist, i spend my time building and deploying ML model at work and switch to 3D model when i home. I' m looking for a way to combine those two discipline. Do not hesitate to contact me if you have any idea.
+I am a data scientist but also a 3D artist, i spend my time building and deploying ML model at work and switch to 3D model when i am home. I' m looking for a way to combine those two disciplines. Do not hesitate to contact me if you have any idea.
 
 #### Testing github stl support
 
