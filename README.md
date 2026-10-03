@@ -4,7 +4,7 @@ My name is Hanssi Andrianiaina RASOLOMANANA.
 
 I am a data product engineer but also a 3D artist, i spend my time building and deploying ML model and data product pipeline at work and switch to 3D model when i am home. I' m looking for a way to combine those two disciplines. Do not hesitate to contact me if you have any idea.
 
-<p align="center"> <img src="assets/cube.svg" width="520" alt="Animated cube made of floating blue voxels"/> </p>
+<p align="center"> <img src="assets/cube.svg" width=100% alt="Animated cube made of floating blue voxels"/> </p>
 
 
 
